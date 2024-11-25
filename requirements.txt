@@ -1,0 +1,7 @@
+os
+subprocess
+whisper
+opencv-python
+gradio
+Pillow
+numpy
